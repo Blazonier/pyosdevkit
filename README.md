@@ -1,6 +1,8 @@
 # pyosdevkit
 <pre>
-Python OS Development kit 
+Python OS Development kit
+
+later i will add this as pip package
 
 how it works:
   uses prebuild functions in libary and translates it to assembly
