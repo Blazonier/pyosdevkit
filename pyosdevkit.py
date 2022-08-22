@@ -4,12 +4,12 @@ class v:
     file_name = None
     file = None
 
-def file_asm(file_name):
+def primary_file_asm(file_name):
     v.file = open(file_name, 'w')
     v.file_name = file_name
     return v.file_name
     return v.file
-def asm_output_write():
+def primary_asm_output_write():
     v.file.close()
 class asm:
     def code_add(code):
