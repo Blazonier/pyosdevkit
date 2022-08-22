@@ -5,7 +5,7 @@ Python OS Development kit
 how it works:
   uses prebuild functions in libary and translates it to assembly
 
-requirements:<br>
+requirements:
   nasm (added to path)
   qemu (added to path)
   
